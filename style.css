@@ -1,0 +1,16 @@
+button{
+    background-color: rgb(243, 201, 147);
+}
+
+body{
+    background-color: rgb(245, 161, 161);
+}
+
+#encabezado-principal {
+    background-color: #ff0000;
+    
+    color: rgb(255, 255, 255);
+    
+    padding: 20px; /* Espacio interno */
+    
+    }
